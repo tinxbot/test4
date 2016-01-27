@@ -218,6 +218,7 @@ function create_config( )
     "broadcast",
     "download_media",
     "invite",
+    "plugins",
     "all",
     "leave_ban"
     },
