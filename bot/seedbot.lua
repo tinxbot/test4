@@ -220,7 +220,6 @@ function create_config( )
     "invite",
     "all",
     "leave_ban"
-    "boobs"
     },
     sudo_users = {132472033,120518968},--Sudo users
     disabled_channels = {},
