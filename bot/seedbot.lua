@@ -223,6 +223,7 @@ function create_config( )
     "leave_ban"
     },
     sudo_users = {132472033,120518968},--Sudo users
+    realm = {106385049},--Realms Id
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
